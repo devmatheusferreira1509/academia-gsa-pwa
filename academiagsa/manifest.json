@@ -1,0 +1,17 @@
+{
+  "name": "GSA - Sistema de Treino",
+  "short_name": "GSA Treino",
+  "description": "Gestão de Saúde e Alta Performance",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#0b1315",
+  "theme_color": "#0b1315",
+  "icons": [
+    {
+      "src": "logo_pwa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+## Biblioteca de Exercícios
+
+Os GIFs dos exercícios não acompanham o repositório para evitar arquivos pesados.
+
+Para adicionar novos exercícios ao sistema:
+
+1. Baixe um GIF do exercício desejado.
+2. Coloque o arquivo na pasta:
+
+```text
+exercicios/
+```
+
+3. No banco de dados, acesse a tabela:
+
+```text
+biblioteca_exercicios
+```
+
+4. Adicione o nome do exercício e o nome exato do arquivo `.gif`.
+
+Exemplo:
+
+```text
+supino_reto.gif
+```
+
+O sistema irá buscar automaticamente o arquivo dentro da pasta `exercicios`.
+
+A tabela `biblioteca_exercicios` é responsável pelo gerenciamento dos exercícios exibidos no sistema.
